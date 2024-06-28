@@ -33,7 +33,6 @@ Dossier js :
 - carte.js
 - clusters.js
 - prediction_display.js
-- predictions.js
 - utils.js
   
 Dossier php :
@@ -124,8 +123,7 @@ Utilise les fichiers :
 Utilise les fichiers :
 - dossier images
 - style.css
-- predictions.js
-- prediciton_display.js
+- prediction_display.js
 - utils.js
 - prediction.php
 - database.php
