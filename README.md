@@ -7,16 +7,19 @@ L'objectif du projet Web est de mettre en place une interface utilisateur permet
 ## Pour commencer
 
 Pour commencer à parcourir ce projet, il faut vérifier que le dossier contient bien les fichiers suivants :
+
 - accueil.html
 - ajout_arbre.html
 - carte.html
 - clusters.html
 - predictions.html
 - style.css
+
 Dossier images :
 - ia_image.png
 - logo_isenff.png
 - logo.jpg
+  
 Dossier js :
 - ajout.js
 - carte.js
@@ -24,6 +27,7 @@ Dossier js :
 - prediction_display.js
 - predictions.js
 - utils.js
+  
 Dossier php :
 - ajout.php
 - carte.php
@@ -43,9 +47,11 @@ Dossier python :
 - fonctionnalite_4_1.py
 - fonctionnalite_4_2.py
 - fonctionnalite_4_3.py
+  
 Dossier sql :
 - model.sql
 - query.sql
+  
 Dossier sklearn-env
 
 
