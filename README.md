@@ -4,6 +4,11 @@ Ce projet a été effectué en trinôme par : Louis DE MALESTROIT, Jalil EL KHAL
 Il permet de faire le lien entre le projet BigData qui analysait et traitait des données brutes avant de les donner à une intelligence artificielle, le projet IA qui mettait en place différentes techniques d'apprentissage automatique et l'utilisateur du site web. Le but final des 3 projets est de concevoir et développer une application de gestion du patrimoine arboré de la ville de Saint-Quentin.
 L'objectif du projet Web est de mettre en place une interface utilisateur permettant de modifier la base de données, la visualiser et calculer des prédictions pour chaque arbre.
 
+## Machine virtuelle
+
+Nous avons travaillé sur la machine virtuelle : 10.30.51.123
+Avec le mot de passe : MG13uWKzWLSN
+
 ## Pour commencer
 
 Pour commencer à parcourir ce projet, il faut vérifier que le dossier contient bien les fichiers suivants :
